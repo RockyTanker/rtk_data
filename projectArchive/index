@@ -1,11 +1,13 @@
 ## TEMPLATE
 # Title
+# CoverImage
 # Tags : {{Tag, TextColor, GradientLeft, GradientRight}}
 # Description
 # ID (Year, Month, Day, Issue)
 
 COVER
 Welcome to ROCKYTANKER.net!
+
 {{Opening Day, #4F3F00, #FFC300, #CDD400}}
 This is the official website for all projects RTK! You'll be able to find the latest stuff and cool stuff here!
 202412201
