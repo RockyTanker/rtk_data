@@ -1,20 +1,20 @@
 ## TEMPLATE
 # Title
 # CoverImage
-# Tags : {{Tag, TextColor, GradientLeft, GradientRight}}
+# Tags : Tag, TextColor, GradientLeft, GradientRight
 # Description
 # ID (Year, Month, Day, Issue)
 
 COVER
 Welcome to ROCKYTANKER.net!
 https://github.com/RockyTanker/rtk_data/blob/ef3e1425115efdd521a68876d0ecf183c7d935c4/projectArchive/assets/RTFTS.webm
-{{Opening Day, #4F3F00, #FFC300, #CDD400}}
+1, Opening Day, #4F3F00, #FFC300, #CDD400
 This is the official website for all projects RTK! You'll be able to find the latest stuff and cool stuff here!
 202412201
 
 ARTICLE
 The Beginner's Guide to TRIA Mapmaking
 https://github.com/RockyTanker/rtk_data/blob/ef3e1425115efdd521a68876d0ecf183c7d935c4/projectArchive/assets/placeholderimage.png
-{{TRIA.os, #4F3F00, #FFC300, #CDD400}}
+2, TRIA.os, #4F3F00, #FFC300, #CDD400
 TRIA.os scripting is often complicated for first time users. In this video, you will be taught the basics of the MapLib, the backend of the TRIA.os Map.
 202412202
